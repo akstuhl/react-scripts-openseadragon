@@ -1,6 +1,6 @@
 {
   "name": "react-scripts-openseadragon",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Configuration and scripts for Create React App, including a shim for OpenSeadragon so its plugins can be used without ejecting.",
   "repository": "akstuhl/react-scripts-openseadragon",
   "license": "MIT",
